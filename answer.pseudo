@@ -1,0 +1,9 @@
+// <?php
+// $name=fgets(STDIN);
+// echo generate($name);
+
+// function generate($name){
+// 	$num=mt_rand(6,15);
+// 	return $name.' '.$num;
+// }
+// ?>
